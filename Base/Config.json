@@ -1,0 +1,43 @@
+{
+  "server_id": "1140083306340302868",
+  "text": {
+    "separator": "**|**",
+    "separator2": "|",
+    "separator3": "**|**"
+  },
+  "emojis": {
+    "money": "<:b_1:1295235947683774464>",
+    "ping": "🏓",
+    "laptop": "💻",
+    "leaf": "🍃",
+    "clock": "⌛",
+    "success": "👍",
+    "error": "❌",
+    "key": "🔑"
+  },
+  "colors": {
+    "default": "#FF9300"
+  },
+  "images": {},
+  "links": {
+    "official_guild": "discord.gg/zyon",
+    "invitation_url": "https://discord.com/oauth2/authorize?client_id=1295236444482174977&permissions=8&integration_type=0&scope=bot"
+  },
+  "permissions": {
+    "developer": {
+      "lamb": "1194912915631898725"
+	  
+    },
+    "moderator": {
+      "lamb": "1194912915631898725"
+    }
+  },
+  "channels": {
+    "channel_event_send_1hour": [
+      "1234303471365390368"
+    ]
+  },
+  "cargo_com_desconto": "1204578928455585882",
+  "channel_raffle": "1204575880060469298",
+  "buy_log_channel": "1221129881224740884"
+}
